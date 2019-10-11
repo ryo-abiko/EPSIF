@@ -7,7 +7,7 @@ Ryo Abiko, M.E. student of Electrical Engineering, Keio University, Japan.
 Masaaki Ikehara, Professor of Electrical Engineering, Keio University, Japan.
 
 |Input image|Smoothed image|
-|:---|:---|
+|:--:|:--:|
 |<img src="bird.png">|<img src="smoothed_image.png">|
 
 
