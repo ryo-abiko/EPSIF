@@ -6,10 +6,11 @@ Author:
 Ryo Abiko, M.E. student of Electrical Engineering, Keio University, Japan.
 Masaaki Ikehara, Professor of Electrical Engineering, Keio University, Japan.
 
+<div align="center">
 |Input image|Smoothed image|
 |:--:|:--:|
-|<img src="bird.png">|<img src="smoothed_image.png">|
-
+|<img src="bird.png" width=70%>|<img src="smoothed_image.png" width=70%>|
+</div>
 
 ## Setup
 Our code is based on MATLAB.
