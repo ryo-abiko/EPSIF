@@ -9,7 +9,7 @@ Masaaki Ikehara, Professor of Electrical Engineering, Keio University, Japan.
 
 |Input image|Smoothed image|
 |:--:|:--:|
-|<img src="bird.png" width=30%>|<img src="smoothed_image.png" width=30%>|
+|<img src="bird.png" width=70%>|<img src="smoothed_image.png" width=70%>|
 
 
 ## Setup
