@@ -6,6 +6,8 @@ Author:
 Ryo Abiko, M.E. student of Electrical Engineering, Keio University, Japan.
 Masaaki Ikehara, Professor of Electrical Engineering, Keio University, Japan.
 
+<img src="bird.png">
+
 ## Setup
 Our code is based on MATLAB.
 Since we use mex file, you need to compile first.
