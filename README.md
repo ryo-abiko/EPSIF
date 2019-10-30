@@ -8,12 +8,15 @@ Ryo Abiko, and Masaaki Ikehara. "Fast Edge Preserving 2D Smoothing Filter Using 
 |:--:|:--:|
 |<img src="bird.png" width=70%>|<img src="smoothed_image.png" width=70%>|
 
+## Requirements
+- MATLAB
+- C, C++ compiler
 
 ## Setup
 Our code is based on MATLAB.
 Since we use mex file, you need to compile first.
 
-run `compile_mex.m` to compile cpp files.
+run `compile_mex.m` to compile c++ files.
 
 ## Usage
 run `demo.m`
