@@ -23,11 +23,11 @@ guide    : guide image (only for 'guide')
 clear all; close all;
 addpath utilities/
 
-image = im2double(imread('bird.png'));
+image = im2double(imread('images/bird.png'));
 
 smoothed_image = EPSIF(image);
 
 figure(1)
 imshow(smoothed_image)
-imwrite(smoothed_image,'smoothed_image.png')
+imwrite(smoothed_image,'images/smoothed_image.png')
 

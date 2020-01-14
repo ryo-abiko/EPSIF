@@ -6,7 +6,7 @@ Ryo Abiko, and Masaaki Ikehara. "Fast Edge Preserving 2D Smoothing Filter Using 
 
 |Input image|Smoothed image|
 |:--:|:--:|
-|<img src="bird.png" width=70%>|<img src="smoothed_image.png" width=70%>|
+|<img src="images/bird.png" width=70%>|<img src="images/smoothed_image.png" width=70%>|
 
 ## Requirements
 - MATLAB
